@@ -165,11 +165,11 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Sobre.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Cadastro\GrupoProduto.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\Cadastro\" />
     <Folder Include="Views\Grafico\" />
     <Folder Include="Views\Operacao\" />
     <Folder Include="Views\PosicaoEstoque\" />
