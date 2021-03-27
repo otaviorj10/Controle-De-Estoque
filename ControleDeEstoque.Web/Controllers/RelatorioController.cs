@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace ControleDeEstoque.Web.Controllers
 {
-    public class PosicaoEstoqueController : Controller
+    public class RelatorioController : Controller
     {
         // GET: PosicaoEstoque
         public ActionResult PosicaoEstoque()
