@@ -166,11 +166,22 @@
     <Content Include="Views\Home\Sobre.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Cadastro\GrupoProduto.cshtml" />
+    <Content Include="Views\Cadastro\Marcaproduto.cshtml" />
+    <Content Include="Views\Cadastro\LocalProduto.cshtml" />
+    <Content Include="Views\Cadastro\UnidadeMedida.cshtml" />
+    <Content Include="Views\Cadastro\Produto.cshtml" />
+    <Content Include="Views\Cadastro\Pais.cshtml" />
+    <Content Include="Views\Cadastro\Estado.cshtml" />
+    <Content Include="Views\Cadastro\Fornecedor.cshtml" />
+    <Content Include="Views\Cadastro\PerfilUsuario.cshtml" />
+    <Content Include="Views\Cadastro\Usuario.cshtml" />
+    <Content Include="Views\Cadastro\Cidade.cshtml" />
+    <Content Include="Views\Grafico\PerdaMes.cshtml" />
+    <Content Include="Views\Grafico\EntradaSaídaMes.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\Grafico\" />
     <Folder Include="Views\Operacao\" />
     <Folder Include="Views\PosicaoEstoque\" />
   </ItemGroup>
